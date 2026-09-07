@@ -10,9 +10,7 @@ I enjoy solving algorithmic problems and continuously improving my knowledge of:
 * Competitive Programming
 * Problem Solving
 * Algorithms
-
-
-CP Sheet Link - https://takeuforward.org/competitive-programming/strivers-cp-sheet
+  
 ---
 
 ## 🏆 Competitive Programming Profiles
